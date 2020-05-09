@@ -8,7 +8,7 @@
 Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
 
 - [main.go](src/main.go)
-```
+```go
 package main
 
 import (
